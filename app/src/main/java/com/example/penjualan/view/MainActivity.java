@@ -111,7 +111,7 @@ public class MainActivity extends AppCompatActivity implements MainContact.view{
 
     }
 
-    btnSub.
+    
     @Override
     public void onClick(View view) {
         if (view == btnSub){
